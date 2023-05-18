@@ -1,10 +1,10 @@
 # My Portfolio website
 A React App which is a personal portfolio website.
 
-## Technologies: 
+# Technologies: 
 
-# Frontend:
+## Frontend:
 HTML, SASS, Javascript and React
 
-# Backend:
+## Backend:
 Sanity.io
