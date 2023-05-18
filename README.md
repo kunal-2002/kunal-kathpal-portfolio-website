@@ -3,8 +3,8 @@ A React App which is a personal portfolio website.
 
 ## Technologies: 
 
-#Frontend:
+# Frontend:
 HTML, SASS, Javascript and React
 
-#Backend:
+# Backend:
 Sanity.io
